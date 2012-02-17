@@ -1,0 +1,11 @@
+#Fri Feb 17 09:44:04 CST 2012
+eclipse.preferences.version=1
+encoding//src/weibocon/org/Code_Location.java=UTF-8
+encoding//src/weibocon/org/IWeiBoDB.java=UTF-8
+encoding//src/weibocon/org/IWeiboAPI.java=UTF-8
+encoding//src/weibocon/org/WeiBoDB.java=UTF-8
+encoding//src/weibocon/org/WeiBoSqliteOpenHelper.java=UTF-8
+encoding//src/weibocon/org/data/Code_Location.java=UTF-8
+encoding//src/weibocon/org/database/WeiBoSqliteOpenHelper.java=UTF-8
+encoding/<project>=UTF-8
+separateDerivedEncodings=true
